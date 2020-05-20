@@ -8,7 +8,7 @@ cisco
 juniper
 
 [cisco]
-ansible_host=10.1.Siduser114.10
+RSiduser114 ansible_host=10.1.Siduser114.10
 
 [cisco:vars]
 ansible_network_os=ios
